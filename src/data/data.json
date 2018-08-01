@@ -1,0 +1,10 @@
+{
+    "ciudades":[
+        {"id":1,"name":"Bogota COL"},
+        {"id":2,"name":"Medellin,Antioquia COL"},
+        {"id":3,"name":"Chia,Cundinamarca COL"}
+    ],
+    "usuarios":[
+        {"Usuario":"Prueba","pass":"qwerty"}
+    ]
+}
